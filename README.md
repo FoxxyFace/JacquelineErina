@@ -1,7 +1,7 @@
 ## Hi I'm Jacqueline :)
 
 
-#### I'm a 2nd-year Computer Science undergad at QUT
+#### I'm a 2nd-year Computer Science undergrad at QUT
 
 - 🌱 I'm new to programming but I really enjoy it so far
 - 🌷 I'm obsessed with cats, gaming and music

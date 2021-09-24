@@ -13,6 +13,8 @@
 - C#
 - C
 - SQL
+- Cisco Packet Tracer
+- Oracle VM VirtualBox
 
 #### 🍄 Stats 🍄
 

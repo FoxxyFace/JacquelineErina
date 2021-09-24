@@ -19,6 +19,9 @@
 ![Jacqueline Erina's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacquelineErina&show_icons=true&theme=radical)
 
 
+Thanks for dropping by  ʕ•ᴥ•ʔ
+
+
 
 
 <!--

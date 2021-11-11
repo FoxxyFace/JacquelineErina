@@ -9,17 +9,10 @@
 - 🧚‍♀️ Interested in becoming a Software Engineer
 
 #### 🍒 Languages and Software I've learnt so far 🍒
-- Python
-- C#
-- C
-- SQL
-- Cisco Packet Tracer
-- Oracle VM VirtualBox
-
-#### 🍄 Stats 🍄
-
-![Jacqueline Erina's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacquelineErina&show_icons=true&theme=radical)
-
+- Python, C#, C, HTML and CSS
+- React, Node.js, Jenkins
+- mySQL
+- Cisco Packet Tracer, Oracle VM VirtualBox
 
 Thanks for dropping by  ʕ•ᴥ•ʔ
 

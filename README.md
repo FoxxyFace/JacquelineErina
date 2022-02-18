@@ -16,8 +16,8 @@
 
 
 #### How to reach me:
-LinkedIn: https://www.linkedin.com/in/jacqueline-mail/
-email: jacqueline.erina@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jacqueline-mail/
+- email: jacqueline.erina@gmail.com
 
 Thanks for dropping by  ʕ•ᴥ•ʔ
 

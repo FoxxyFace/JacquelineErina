@@ -1,18 +1,23 @@
 ## Hi I'm Jacqueline :)
 
 
-#### I'm a 2nd-year Computer Science undergrad at QUT
+#### I'm a 3rd-year Computer Science undergrad at QUT
 
 - 🌱 I'm new to programming but I really enjoy it so far
 - 🌷 I'm obsessed with cats, gaming and music
 - 💜 Currently drowning in uni assignments but keen to start doing some side projects
-- 🧚‍♀️ Interested in becoming a Software Engineer
+- 🧚‍♀️ Interested in becoming a Software Engineer or UI/UX designer
 
 #### 🍒 Languages and Software I've learnt so far 🍒
-- Python, C#, C, HTML and CSS
+- Python, C#, HTML and CSS, Javascript
 - React, Node.js, Jenkins
 - mySQL
 - Cisco Packet Tracer, Oracle VM VirtualBox
+
+
+#### How to reach me:
+LinkedIn: https://www.linkedin.com/in/jacqueline-mail/
+email: jacqueline.erina@gmail.com
 
 Thanks for dropping by  ʕ•ᴥ•ʔ
 

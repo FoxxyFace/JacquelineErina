@@ -1,19 +1,18 @@
 ## Hi I'm Jacqueline :)
 
 
-#### I'm a 3rd-year Computer Science undergrad at QUT
+#### I'm a Computer Science graduate from QUT
 
 - 🌱 I'm new to programming but I really enjoy it so far
 - 🌷 I'm obsessed with cats, gaming and music
-- 💜 Currently drowning in uni assignments but keen to start doing some side projects
-- 🧚‍♀️ Interested in becoming a Software Engineer or UI/UX designer
+- 💜 Currently looking for a professional job and doing some side projects
+- 🧚‍♀️ Interested in becoming a Software Engineer or Web Developer
 
 #### 🍒 Languages and Software I've learnt so far 🍒
-- Python, C#, HTML and CSS, Javascript
-- React, Node.js, Jenkins
+- Python,C++, PHP, C#, HTML and CSS, JavaScript
+- React, Node.js, Jenkins, Express
 - mySQL
 - Cisco Packet Tracer, Oracle VM VirtualBox
-
 
 #### How to reach me:
 - LinkedIn: https://www.linkedin.com/in/jacqueline-mail/

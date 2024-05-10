@@ -2,7 +2,6 @@
 
 
 #### I'm a Computer Science graduate from QUT
-
 - 🌱 I'm new to programming but I really enjoy it so far
 - 🌷 I'm obsessed with cats, gaming and music
 - 💜 Currently looking for a professional job and doing some side projects
